@@ -5,11 +5,11 @@
 
 
 
-1. Data Ingestion
-2. Data Validation
-3. Data Transformation
-4. Model Trainer
-5. Model Evaluation
+1. Data Ingestion -> collecting and assembling in the folder
+2. Data Validation -> validating column
+3. Data Transformation -> Data Preprocessing
+4. Model Trainer ->  traintest
+5. Model Evaluation -> MLFLOW, DagsHub
 
 ## Workflow
 
