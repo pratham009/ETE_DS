@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Fythonn/fyt/Main/Project_1/mlruns/0/aa11e9fc7db640b9a0f5802a58fe8511/artifacts
+end_time: 1736564901332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa11e9fc7db640b9a0f5802a58fe8511
+run_name: casual-moose-67
+run_uuid: aa11e9fc7db640b9a0f5802a58fe8511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736564860481
+status: 3
+tags: []
+user_id: Admin
