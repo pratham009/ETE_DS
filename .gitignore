@@ -1,4 +1,4 @@
 venv/
-logs
-artifacts
-mlruns
+logs/
+artifacts/
+mlruns/
